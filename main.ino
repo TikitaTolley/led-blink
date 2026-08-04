@@ -17,7 +17,7 @@ void setup() {
   
   pinMode(SOUND_PIN, INPUT);
   
-  Serial.println("Sound-reactive LED matrix ready!");
+  Serial.println("LED strip ready!");
 }
 
 void loop() {
