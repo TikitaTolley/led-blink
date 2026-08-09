@@ -40,15 +40,18 @@ I originally started this as a sound-reactive build, but the ESP32 I used had be
 
 Data is on GPIO5 (`LED_PIN` in `main.ino`). If you rebuild this on a stock dev board, that's the pin the strip's DIN goes to, with 5V and GND to the strip's power pads.
 
+## Licence
+
+MIT, see [LICENSE](LICENSE).
+
 ---
 
-This build on [YouTube][yt-1] · [TikTok][tt-1] · [Instagram][ig-1]. All projects at [github.com/TikitaTolley][gh]. [Buy me a coffee][bmac].
+This build on [YouTube][yt-1] · [TikTok][tt-1] · [Instagram][ig-1]. All projects at [github.com/TikitaTolley][gh].
 
 [yt]: https://youtube.com/@tikitatech
 [tt]: https://tiktok.com/@tikitatech
 [ig]: https://instagram.com/tikitatech
 [gh]: https://github.com/TikitaTolley
-[bmac]: https://buymeacoffee.com/tikitatech
 
 [fastled]: https://github.com/FastLED/FastLED
 
