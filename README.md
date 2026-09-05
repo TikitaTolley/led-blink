@@ -6,7 +6,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)][tt]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][ig]
 
-![demo](media/led_blink_20260730.jpg)
+<a href="media/led_blink_20260730.jpg"><img src="media/led_blink_20260730.jpg" alt="ESP32 driving an addressable RGB LED strip" width="400"></a>
 
 ## What it does
 
