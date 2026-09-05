@@ -1,6 +1,6 @@
 # LED Blink
 
-> ESP32 driving a WS2812B, blinking individual pixels.
+> ESP32 addressable RGB LED example using FastLED and a WS2812B strip, with Arduino firmware and a build video.
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)][yt]
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)][tt]
