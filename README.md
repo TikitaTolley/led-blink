@@ -46,12 +46,13 @@ MIT, see [LICENSE](LICENSE).
 
 ---
 
-This build on [YouTube][yt-1] · [TikTok][tt-1] · [Instagram][ig-1]. All projects at [github.com/TikitaTolley][gh].
+This build on [YouTube][yt-1] · [TikTok][tt-1] · [Instagram][ig-1] · [project page][portfolio]. All projects at [github.com/TikitaTolley][gh].
 
 [yt]: https://youtube.com/@tikitatech
 [tt]: https://tiktok.com/@tikitatech
 [ig]: https://instagram.com/tikitatech
 [gh]: https://github.com/TikitaTolley
+[portfolio]: https://tikitatech.xyz/projects/led-blink/
 
 [fastled]: https://github.com/FastLED/FastLED
 
